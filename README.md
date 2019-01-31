@@ -34,7 +34,7 @@ Default configuration
 ---------------------
 
 This plugin uses PyYAML to process YAML files. You can specify the arguments for
-the [Dumper](<http://pyyaml.org/wiki/PyYAMLDocumentation#Dumper>) in the
+the [Dumper](<http://pyyaml.org/wiki/PyYAMLDocumentation#dumper>) in the
 plugin's preferences.
 
 
